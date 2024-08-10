@@ -17,7 +17,7 @@ cyan='\033[1;36m'
 white='\033[1;37m'
 echo -e "${yellow}[+] ${green}Checking dependencies${white}"
 if ! command -v clang &> /dev/null; then
-    if ! command -v pacman &> /dev/null; then
+    if command -v pacman &> /dev/null; then
         if [ -f /var/lib/pacman/db.lck ]; then
             sudo rm -rf /var/lib/pacman/db.lck
         fi
