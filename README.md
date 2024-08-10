@@ -8,9 +8,11 @@ Say goodbye to manual payload creation and streamline your testing process! 🎯
 
 ##### Example Payload
 
-![Payload Screenshot](https://example.com/screenshot1.jpg)
+![Payload Screenshot](https://i.imgur.com/eDpV7b1.jpeg)
 
-![Payload Screenshot](https://example.com/screenshot2.jpg)
+##### Telegram
+
+![Payload Screenshot](https://i.imgur.com/JYEi3Vf.jpg)
 
 ## Features
 
